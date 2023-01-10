@@ -1,11 +1,10 @@
 # Cryptocurrencies
 
-Processed the data to fit the machin learning models using unsupervised learning
-
 - Deliverable 1: Preprocessing the Data for PCA
 - Deliverable 2: Reducing Data Dimensions Using PCA
 - Deliverable 3: Clustering Cryptocurrencies Using K-means
 - Deliverable 4: Visualizing Cryptocurrencies Results
+
 
 ![Screenshot 2023-01-09 165815](https://user-images.githubusercontent.com/110438612/211636584-b0058fea-e589-428a-aeee-aa7661846be2.png)
 
